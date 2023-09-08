@@ -22,3 +22,4 @@
 ~~sometimes i get carried away and live tweet through my commit messages.dont read the commmit messages~~</sup></sub>
 #### Visitor count:
 <img src="https://profile-counter.glitch.me/oniaz/count.svg" />
+i dont know why the visitor count number is this big, are people stealing my alx codes? i mean what else to see here? it's probably just me reloading this page so much
