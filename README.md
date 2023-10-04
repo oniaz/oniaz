@@ -19,7 +19,7 @@
 ![me](https://github.com/oniaz/oniaz/blob/main/me.jpeg "me") <br>
 ![iam](https://github.com/oniaz/oniaz/blob/main/iam.jpeg "iam") <br>
 <sub><sup>
-~~sometimes i get carried away and like might live tweet through my commit messages ¯\_(ツ)_/¯ we all do that though, rigtht? right??? :((~~</sup></sub>
+~~sometimes i -->get carried away and -->might like live tweet through my commit messages ¯\_(ツ)_/¯ we all do that though, rigtht? right??? :((~~</sup></sub>
 #### Visitor count:
 <img src="https://profile-counter.glitch.me/oniaz/count.svg" />
 i dont know why the visitor count number is this big, are people copying my alx codes? i mean what else to see here? it's probably just me reloading this page so much
