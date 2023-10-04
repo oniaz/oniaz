@@ -12,7 +12,7 @@
 
 
 <!-- now hire me -->
- jk this is my personal account so nothing to see here
+ jk this is my personal account, nothing to see here
 * whatever happens never read my commit messages because uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh  
 <!-- * My account is private, so there's nothing really for you to see here unless you're here to steal my ALX codes, in which case I can't stop you -->
 
