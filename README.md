@@ -1,7 +1,7 @@
 # :3
 <pre>
   _______________________________________________________________
-< hi welcom e to my my vrey extreml;y proffesional github profile >
+< hi welcom e to my my vrey extreml;y proffesoinal github profile >
   ---------------------------------------------------------------
         \   ^__^
          \  (oo)\_______
