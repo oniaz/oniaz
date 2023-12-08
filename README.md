@@ -17,7 +17,7 @@
 
 ![me](https://github.com/oniaz/oniaz/blob/main/me.jpeg "me") <br>
 ![iam](https://github.com/oniaz/oniaz/blob/main/iam.jpeg "iam") <br>
-<sub><sup>~~sometimes i <!-- get carried away and -->might like live tweet through my commit messages ¯\_(ツ)_/¯ we all do that though, rigtht? right??? :((~~</sup></sub>
+<sub><sup>~~sometimes i <!-- get carried away and -->might like live tweet through my commit messages ¯\\_(ツ)_/¯ we all do that though, rigtht? right??? :((~~</sup></sub>
 <br> 
 * apparently it's execute and not excute :/
 #### Visitor count:
