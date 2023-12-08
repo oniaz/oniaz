@@ -12,13 +12,14 @@
 
 <!-- now hire me -->
  jk this is my personal account, nothing to see here
-* apparently it's execute not excute :/
 * whatever happens never read my commit messages because uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh  
 <!-- * My account is private, so there's nothing really for you to see here unless you're here to steal my ALX codes, in which case I can't stop you -->
 
 ![me](https://github.com/oniaz/oniaz/blob/main/me.jpeg "me") <br>
 ![iam](https://github.com/oniaz/oniaz/blob/main/iam.jpeg "iam") <br>
 <sub><sup>
+^that was ultra cringe. what's below is also cringe. it's okay though. i find everything cringe anyway. i do.
+* apparently it's execute not excute :/
 ~~sometimes i <!-- get carried away and -->might like live tweet through my commit messages ¯\_(ツ)_/¯ we all do that though, rigtht? right??? :((~~</sup></sub>
 #### Visitor count:
 <img src="https://profile-counter.glitch.me/oniaz/count.svg" />
