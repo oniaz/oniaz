@@ -17,10 +17,10 @@
 
 ![me](https://github.com/oniaz/oniaz/blob/main/me.jpeg "me") <br>
 ![iam](https://github.com/oniaz/oniaz/blob/main/iam.jpeg "iam") <br>
-<sub><sup>
 ^that was ultra cringe. what's below is also cringe. it's okay though. i find everything cringe anyway. i do.
 * apparently it's execute not excute :/
 <br>
+<sub><sup>
 ~~sometimes i <!-- get carried away and -->might like live tweet through my commit messages ¯\_(ツ)_/¯ we all do that though, rigtht? right??? :((~~</sup></sub>
 #### Visitor count:
 <img src="https://profile-counter.glitch.me/oniaz/count.svg" />
