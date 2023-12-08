@@ -22,4 +22,5 @@
 * apparently it's execute and not excute :/
 #### Visitor count:
 <img src="https://profile-counter.glitch.me/oniaz/count.svg" />
-i dont know why the visitor count number is this big, are people copying my alx codes? i mean what else to see here? it's probably just me reloading this page so much
+i dont know why the visitor count number is this big...ಠ⁠_⁠ಠ, could it possibly be because are people copying my alx codes :O ??? i mean what else to see here? it's probably just me reloading this page so much
+ಠ⁠‿⁠ಠ
