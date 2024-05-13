@@ -21,6 +21,7 @@
 <sub><sup>~~sometimes i <!-- get carried away and -->might like live tweet through my commit messages ¯\\_(ツ)_/¯ we all do that though, rigtht? right??? :((~~</sup></sub>
 <br> 
 * apparently it's execute and not excute
+I make typos because I'm still not used to my keyboard. istg I can spell well T_T
 #### Visitor count:
 <img src="https://profile-counter.glitch.me/oniaz/count.svg" />
 (of which 97.62% is me reloading this page)
