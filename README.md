@@ -1,6 +1,6 @@
 # Hello, I'm Omnia!
 
-A Software Developer with a passion for creating efficient and innovative solutions.
+A Software Developer with a passion for creating efficient and innovative solutions
 
 #### ⚙️ Technologies & Tools I Know:
 
