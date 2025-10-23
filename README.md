@@ -9,7 +9,6 @@
                 ||----w |
                 ||     ||
 </pre>
-
 now hire me <br>
 * as u can see, I've gone private so nothing to see here :)
 * whatever happens never read my commit messages because uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
@@ -21,3 +20,5 @@ now hire me <br>
 #### Visitor count:
 <img src="https://profile-counter.glitch.me/oniaz/count.svg" />
 (of which 97.62% is me reloading this page)
+
+### Send me a message
