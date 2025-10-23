@@ -1,16 +1,23 @@
-# Hello, I'm Omnia!
+# :3
+<pre>
+  _______________________________________________________________
+< hi welcom e to my my vrey extreml;y proffesoinal github profile >
+  ---------------------------------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+</pre>
 
-A Software Developer with a passion for creating efficient and innovative solutions
+now hire me <br>
+* as u can see, I've gone private so nothing to see here :)
+* whatever happens never read my commit messages because uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-#### ⚙️ Technologies & Tools I Know:
-
-- **Languages:** JavaScript, Python, Java, C, C++
-- **Backend:** Node.js, Express.js, Flask, MongoDB, SQL, Nginx, Apache, Laravel
-- **Frontend:** React.js, Electron.js, HTML, CSS, Bootstrap
-- **Data Science & Machine Learning:** R, Python (NumPy, Pandas, Matplotlib, SciPy, SciKit-Learn, TensorFlow)
-- **DevOps & Tools:** Git, Docker, Linux, Jupyter, Postman, Bash, Swagger
-- **Mobile Development:** Android Studio (Java, XML), Flutter (Dart)
-
+![me](https://github.com/oniaz/oniaz/blob/main/me.jpeg "me") <br>
+^ real pic of me
+<!--![iam](https://github.com/oniaz/oniaz/blob/main/iam.jpeg "iam") <br> -->
 
 #### Visitor count:
 <img src="https://profile-counter.glitch.me/oniaz/count.svg" />
+(of which 97.62% is me reloading this page)
