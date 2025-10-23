@@ -21,4 +21,6 @@ now hire me <br>
 <img src="https://profile-counter.glitch.me/oniaz/count.svg" />
 (of which 97.62% is me reloading this page)
 
-### Send me a message
+### Contact me
+If u really have to, u can send me a message [here](https://oniaz-contact-me.vercel.app)
+
