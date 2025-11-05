@@ -9,8 +9,8 @@
                 ||----w |
                 ||     ||
 </pre>
-now hire me <br>
-* as u can see, I've gone private so nothing to see here :)
+if you're a recruiter, u can stop here and hire me already<br>
+* as u can see, I've gone private (i have made some online enemies. im a very imprtant person u see) so nothing to see here :)
 * whatever happens never read my commit messages because uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 ![me](https://github.com/oniaz/oniaz/blob/main/me.jpeg "me") <br>
