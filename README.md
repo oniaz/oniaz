@@ -26,4 +26,4 @@ as u can see, I've gone private. Nothing to see here!
 (welp it's no longer working but  i swear i had thousands of views because im very popular)
 
 #### Contact me
-If u really have to, u can send me a message [here](https://oniaz-contact-me.vercel.app)
+If u reeeeeeeally have to, u can send me a message [here](https://oniaz-contact-me.vercel.app)
