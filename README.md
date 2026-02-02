@@ -10,8 +10,9 @@
                 ||     ||
 </pre>
 if you're a recruiter, u can stop here and hire me already<br>
-* as u can see, I've gone private (i have made some online enemies. im a very important person u see) so nothing to see here :)
-* if you're here for mavie app, it's taking an indefinite nap. repo’s private. I’m not planning a comeback anytime soon. sorry guys
+as u can see, I've gone private. Nothing to see here!
+<!--!* as u can see, I've gone private (i have made some online enemies. im a very important person u see) so nothing to see here :) -->
+<!--!* if you're here for mavie app, it's taking an indefinite nap. repo’s private. I’m not planning a comeback anytime soon. sorry guys -->
 <img src="https://media.tenor.com/5XI3C0T91oQAAAAM/kusuriya-no-hitorigoto-the-apothecary-diaries.gif" width="100" />
 * whatever happens never read my commit messages because uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
